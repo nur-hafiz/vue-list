@@ -12,14 +12,11 @@ This is an personal project as an introduction to Vue JS
 1. Events
   * V-On
   * $emit
-
 2. Data Binding
   * V-Bind
   * V-Model
-
 3. Looping
   * V-For
-
 4. Dynamic Components
   * Component is: toggles between 2 lists
   * Keep-Alive
