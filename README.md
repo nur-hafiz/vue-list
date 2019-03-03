@@ -22,4 +22,4 @@ This is an personal project as an introduction to Vue JS
   * Keep-Alive
 
 ### Demonstration Vide
-URL: https://vimeo.com/user95766486/review/321056015/493cbfd283
+URL: https://vimeo.com/321056015
